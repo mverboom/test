@@ -8,3 +8,5 @@ Tataaaa!
 For version 0.3
 
 Minor update
+
+Another minor update
