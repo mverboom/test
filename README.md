@@ -1,3 +1,5 @@
+This is version 0.4
+
 Testing
 en nog een test
 
